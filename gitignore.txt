@@ -1,0 +1,16 @@
+/vendor/
+/node_modules/
+/public/uploads/*
+/storage/logs/*
+/storage/cache/*
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+composer.lock
+package-lock.json
+.phpunit.result.cache
